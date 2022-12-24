@@ -21,7 +21,6 @@
         "drupal/advagg": "^4.1",
         "drupal/ajax_loader": "^2.0",
         "drupal/allowed_formats": "^1.5",
-        "drupal/backup_migrate": "5.0.1",
         "drupal/bootstrap_layout_builder": "^2.0",
         "drupal/captcha": "1.2.0",
         "drupal/core-composer-scaffold": "^9.4",
