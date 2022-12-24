@@ -10,7 +10,6 @@ module:
   advagg_js_minify: 0
   ajax_loader: 0
   allowed_formats: 0
-  backup_migrate: 0
   basic_auth: 0
   block: 0
   block_content: 0
