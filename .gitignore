@@ -33,15 +33,15 @@
 /web/profiles/README.txt
 /web/themes/README.txt
 /web/update.php
+/web/libraries
 
 # Ignore configuration files that may contain sensitive information.
 *.sql
 *.sql.gz
 
 /web/sites/*/settings*.php
+!/web/sites/*/settings.php
 /web/sites/*/services*.yml
-/web/sites/example.settings.local.php
-/web/sites/development.services.yml
 /web/sites/example.sites.php
 /web/sites/README.txt
 
@@ -68,3 +68,15 @@
 /.editorconfig
 /.gitattributes
 phpunit.xml
+
+drush/drush.yml
+
+.idea
+
+node_modules
+
+test.php
+
+robo.yml
+
+.env
